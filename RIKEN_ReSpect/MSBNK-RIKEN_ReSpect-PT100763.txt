@@ -1,4 +1,5 @@
 ACCESSION: MSBNK-RIKEN_ReSpect-PT100763
+DEPRECATED: 2023-09-22 Wrong data in MS$FOCUSED_ION: PRECURSOR_M/Z as reported in #243
 RECORD_TITLE: Nicotinic Acid, 3-Picolinic acid, Pellagra preventive factor, Nicotinate, Niacin, Pyridine-3-carbonic acid, Vitamin B3, pyridine-3-carboxylic acid; LC-ESI-QTOF; MS2
 DATE: 2008.07.24
 AUTHORS: Matsuda F, Suzuki M, Sawada Y, Plant Science Center, RIKEN.
@@ -21,6 +22,7 @@ CH$SMILES: C1=CC(=CN=C1)C(=O)O
 CH$IUPAC: InChI=1S/C6H5NO2/c8-6(9)5-2-1-3-7-4-5/h1-4H,(H,8,9)
 CH$LINK: CAS 59-67-6
 CH$LINK: INCHIKEY PVNIIMVLHYAWGP-UHFFFAOYSA-N
+CH$LINK: ChemOnt CHEMONTID:0001322; Organic compounds; Organoheterocyclic compounds; Pyridines and derivatives; Pyridinecarboxylic acids and derivatives
 AC$INSTRUMENT: Q-Tof Premier, Waters
 AC$INSTRUMENT_TYPE: LC-ESI-QTOF
 AC$MASS_SPECTROMETRY: MS_TYPE MS2

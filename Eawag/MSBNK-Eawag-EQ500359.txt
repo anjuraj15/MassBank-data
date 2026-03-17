@@ -4,7 +4,7 @@ DATE: 2021.03.16
 AUTHORS: K. Kiefer [dtc], J. Hollender [dtc], H. Singer [dtc], B. Lauper [com]
 LICENSE: CC BY-SA
 COPYRIGHT: Copyright (C) Eawag 2019
-PUBLICATION: Kiefer, K.; Mueller, A.; Singer, H.; Hollender, J. New relevant pesticide transformation products in groundwater detected using target and suspect screening for agricultural and urban micropollutants with LC-HRMS. Water Research 2019, 165. DOI: https://doi.org/10.1016/j.watres.2019.114972
+PUBLICATION: Kiefer, K., Du, L., Singer, H., Hollender, J.. Identification of LC-HRMS Nontarget Signals in Groundwater After Source Related Prioritization. Water Research 2021, 196. DOI: https://doi.org/10.1016/j.watres.2021.116994
 COMMENT: CONFIDENCE standard compound
 COMMENT: UCHEM_ID 5003
 CH$NAME: Perfluoropropanesulfonic Acid
@@ -19,6 +19,7 @@ CH$LINK: PUBCHEM CID:9859771
 CH$LINK: INCHIKEY XBWQFDNGNOOMDZ-UHFFFAOYSA-N
 CH$LINK: CHEMSPIDER 8035470
 CH$LINK: COMPTOX DTXSID30870531
+CH$LINK: ChemOnt CHEMONTID:0001027; Organic compounds; Organohalogen compounds; Alkyl halides; Alkyl fluorides
 AC$INSTRUMENT: Orbitrap Exploris 240 Thermo Scientific
 AC$INSTRUMENT_TYPE: LC-ESI-QFT
 AC$MASS_SPECTROMETRY: MS_TYPE MS2
